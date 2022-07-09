@@ -2161,9 +2161,9 @@ ul.social-icons {
 .top_bar_contact_item {
     font-size: 15px;
     height: 48px;
-    line-height: 48px;
+    line-height: 50px;
     padding-left: 18px;
-    padding-right: 18px;
+    padding-right: 10px;
     position: relative;
     display: inline-block;
 }
